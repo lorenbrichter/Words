@@ -16,11 +16,11 @@ Contributions are welcome! A few guidelines:
 Structure
 =========
 
-Each language should be in a file Words/*[ISO 639-1]*.txt. All words should be lowercase and the file kept sorted.
+Each language should be in a file Words/[ISO 639-1 code].txt. All words should be lowercase and the file kept sorted.
 
 Other Useful Lists
 ==================
 
-YAWL - http://www.gtoal.com/wordgames/yawl/
-ENABLE2K - http://everything2.com/title/ENABLE+word+list
-CSW12 - http://www.scrabbleplayers.org/w/CSW12
+- YAWL - http://www.gtoal.com/wordgames/yawl/
+- ENABLE2K - http://everything2.com/title/ENABLE+word+list
+- CSW12 - http://www.scrabbleplayers.org/w/CSW12
