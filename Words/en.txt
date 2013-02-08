@@ -79480,6 +79480,7 @@ eschatologies
 eschatologist
 eschatologists
 eschatology
+eschaton
 escheat
 escheatable
 escheatage
