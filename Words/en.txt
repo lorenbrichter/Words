@@ -161074,6 +161074,7 @@ opposabilities
 opposability
 opposable
 opposably
+opposal
 oppose
 opposed
 opposeless
