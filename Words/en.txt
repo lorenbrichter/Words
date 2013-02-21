@@ -122934,6 +122934,8 @@ isthmians
 isthmic
 isthmoid
 isthmus
+isthmus
+isthmuses
 isthmuses
 istle
 istles
