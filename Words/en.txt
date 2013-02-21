@@ -122934,8 +122934,6 @@ isthmians
 isthmic
 isthmoid
 isthmus
-isthmus
-isthmuses
 isthmuses
 istle
 istles
@@ -202030,6 +202028,9 @@ respelt
 respirabilities
 respirability
 respirable
+respirate
+respirated
+respirating
 respiration
 respirational
 respirations
