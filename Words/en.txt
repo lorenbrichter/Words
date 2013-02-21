@@ -157707,8 +157707,8 @@ novelly
 novels
 novelties
 novelty
-novemdecillion
 november
+novemdecillion
 novemdecillions
 novena
 novenae
@@ -162069,6 +162069,7 @@ orthographs
 orthography
 orthohydrogen
 orthohydrogens
+orthology
 orthomolecular
 orthomorphic
 orthonormal
