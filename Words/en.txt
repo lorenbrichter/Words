@@ -87922,6 +87922,9 @@ flattish
 flattop
 flattops
 flatty
+flatulate
+flatulated
+flatulating
 flatulence
 flatulences
 flatulencies
