@@ -265041,6 +265041,14 @@ villainous
 villainously
 villainousness
 villainousnesses
+villainise
+villainises
+villainised
+villainising
+villainize
+villainizes
+villainized
+villainizing
 villains
 villainy
 villan
