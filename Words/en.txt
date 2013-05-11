@@ -196689,6 +196689,10 @@ recurrently
 recurring
 recurringly
 recurs
+recurse
+recursed
+recurses
+recursing
 recursion
 recursions
 recursive
