@@ -151484,7 +151484,6 @@ myelencephalic
 myelencephalon
 myelencephalons
 myelin
-myelinate
 myelinated
 myeline
 myelines
@@ -229837,6 +229836,7 @@ steven
 stevengraph
 stevengraphs
 stevens
+stevia
 stew
 stewable
 steward
