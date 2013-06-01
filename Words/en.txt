@@ -220667,6 +220667,7 @@ slayed
 slayer
 slayers
 slaying
+slayings
 slays
 sleave
 sleaved
