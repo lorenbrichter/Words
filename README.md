@@ -8,15 +8,20 @@ Contributions
 
 Contributions are welcome! A few guidelines:
 
-- Keep diffs short. One word at a time is probably best.
-- When proposing an addition, links to definitions in established dictionaries are good.
-- Same rules as Letterpress (and other similar games), no proper nouns, acronyms, etc. (The list does have a few acronyms and abbreviations, but those may remain for historical reasons, as they've been allowed in other popular word games).
-- Limit esoteric and domain-specific words.
+- Keep diffs short. One word (or word+pluralization/conjugation-variations) at a time is probably best.
+- When proposing an addition, links to definitions in _established_ dictionaries are required. (Wiktionary is very liberal, and cannot count as primary evidence).
+- Same rules as Letterpress (and other similar games), no proper nouns, acronyms, etc. (The list does have a few acronyms and abbreviations, but those may remain for historical reasons as they've been allowed in other popular word games).
+- Until a rule is devised that governs them, esoteric and domain-specific words may be rejected.
 
 Structure
 =========
 
-Each language should be in a file Words/[ISO 639-1 code].txt. All words should be lowercase and the file kept sorted.
+Each language should be in a sorted, UTF-8 encoded file "Words/[ISO 639-1 code].txt".
+
+English Notes
+=============
+
+US, UK and Australian spellings are combined. Generally speaking, if it's allowed in another popular word game like Scrabble, it should be allowed in Letterpress. (http://www.anagrammer.com/ is a great resource to verify).
 
 Other Useful Lists
 ==================
