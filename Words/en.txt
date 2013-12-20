@@ -216222,6 +216222,9 @@ sharpshooters
 sharpshooting
 sharpshootings
 sharpy
+sharrow
+sharrows
+sharrowed
 shart
 sharted
 sharter
