@@ -54836,6 +54836,8 @@ cutovers
 cutpurse
 cutpurses
 cuts
+cutscene
+cutscenes
 cuttable
 cuttage
 cuttages
