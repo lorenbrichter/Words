@@ -54172,7 +54172,11 @@ cunningness
 cunningnesses
 cunnings
 cunt
+cunted
+cunting 
+cuntish
 cunts
+cunty
 cup
 cupbearer
 cupbearers
@@ -54836,6 +54840,8 @@ cutovers
 cutpurse
 cutpurses
 cuts
+cutscene
+cutscenes
 cuttable
 cuttage
 cuttages
@@ -110365,6 +110371,7 @@ hourglass
 hourglasses
 houri
 houris
+hourless
 hourlies
 hourlong
 hourly
@@ -138344,6 +138351,7 @@ manliest
 manlike
 manlikely
 manlily
+manlihood
 manliness
 manlinesses
 manly
@@ -189916,6 +189924,8 @@ pullers
 pullet
 pullets
 pulley
+pulleyed
+pulleying
 pulleys
 pulli
 pulling
@@ -190679,6 +190689,7 @@ puschkinia
 puschkinias
 puses
 push
+pushback
 pushball
 pushballs
 pushbike
@@ -216222,6 +216233,9 @@ sharpshooters
 sharpshooting
 sharpshootings
 sharpy
+sharrow
+sharrows
+sharrowed
 shart
 sharted
 sharter
@@ -252428,6 +252442,9 @@ twenty
 twentyfold
 twentyfolds
 twentyish
+twerk
+twerking
+twerks
 twerp
 twerpier
 twerpiest
@@ -256050,6 +256067,7 @@ undeterred
 undeveloped
 undeviating
 undeviatingly
+undevoted
 undevout
 undiagnosable
 undiagnosed
@@ -259997,6 +260015,7 @@ unsteel
 unsteeled
 unsteeling
 unsteels
+unsteepled
 unstemmed
 unstep
 unstepped
