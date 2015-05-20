@@ -158748,7 +158748,6 @@ franc
 français
 française
 françaises
-Francais-GUTenberg
 franc-alleu
 franc-bord
 franc-bourgeois
@@ -171667,7 +171666,6 @@ gustative
 gustatives
 gustométrie
 gustométries
-GUTenberg
 gutta-percha
 guttas-perchas
 guttural
@@ -189125,7 +189123,6 @@ isotope
 isotopes
 isotopique
 isotopiques
-ISPELL
 israélien
 israélienne
 israéliennes
